@@ -9,3 +9,6 @@
 ### [DataVisualization.ipynb](https://github.com/itsDV7/Internity-Practice-Notebooks/blob/main/Day-04/DataVisualization.ipynb)
 ### [SeabornPractice.py](https://github.com/itsDV7/Internity-Practice-Notebooks/blob/main/Day-04/SeabornPractice.py)
 ### [SeabornPractice Images](https://drive.google.com/file/d/156zUiyrjoOGe97Me1BE3gc9VRXynA8wL/view?usp=sharing)
+## Datasets - From Kaggle (Link in Blog)
+### [2018.csv](https://github.com/itsDV7/Internity-Practice-Notebooks/blob/main/Day-04/2018.csv)
+### [2019.csv](https://github.com/itsDV7/Internity-Practice-Notebooks/blob/main/Day-04/2019.csv)

@@ -1,5 +1,5 @@
 # Day - 00
-## Learnings from Blogs and Videos
+## Learnings from Blogs and Videos:
 
 ### Blogs
 #### Importance of Coaching and Being Coachable:
